@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EnlightedIntegrationTest_Example' do
+  pod 'EnlightedIntegrationTest', :path => '../'
+
+  target 'EnlightedIntegrationTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
