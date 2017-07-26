@@ -1,0 +1,16 @@
+PODS:
+  - EnlightedIntegrationTest (0.1.0)
+
+DEPENDENCIES:
+  - EnlightedIntegrationTest (from `../`)
+
+EXTERNAL SOURCES:
+  EnlightedIntegrationTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EnlightedIntegrationTest: c866b998aaf0e85767fd83c877d32e422fb292dd
+
+PODFILE CHECKSUM: ed191448c489c2081e99726b762a85c01b49810a
+
+COCOAPODS: 1.2.1

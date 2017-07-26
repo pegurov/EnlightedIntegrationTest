@@ -1,0 +1,22 @@
+{
+  "name": "EnlightedIntegrationTest",
+  "version": "0.1.0",
+  "summary": "A short description of EnlightedIntegrationTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pashaisthebest@gmail.com/EnlightedIntegrationTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pashaisthebest@gmail.com": "pashaisthebest@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pashaisthebest@gmail.com/EnlightedIntegrationTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EnlightedIntegrationTest/Classes/**/*"
+}
